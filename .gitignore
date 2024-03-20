@@ -5,3 +5,4 @@ __pycache__
 .gitattributes
 !*.zip
 zippedData/im.db
+zippedData/extracted_files/db
